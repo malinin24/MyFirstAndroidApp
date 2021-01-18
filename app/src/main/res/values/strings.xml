@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+    <string name="logTag">[TEST]</string>
+    <string name="btn1LogText">Button 1 pressed</string>
+    <string name="btn2LogText">Button 2 pressed</string>
+    <string name="btn3LogText">Button 3 pressed</string>
+</resources>

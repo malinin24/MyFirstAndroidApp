@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">МоеПервоеАндроидПриложение</string>
+    <string name="button1">Кнопка 1</string>
+    <string name="button2">Кнопка 2</string>
+    <string name="button3">Кнопка 3</string>
+    <string name="logTag">[TEST]</string>
+    <string name="btn1LogText">Кнопка 1 нажата</string>
+    <string name="btn2LogText">Кнопка 2 нажата</string>
+    <string name="btn3LogText">Кнопка 3 нажата</string>
+</resources>
